@@ -1,2 +1,2 @@
-# MostAwesomeNWKCCloud
-Same as MostAwesomeNWKC except implemented into backendless
+# MostAwesomeNWKC
+This Repository is for the HW assignment that its named after
